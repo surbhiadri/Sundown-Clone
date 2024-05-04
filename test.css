@@ -14,7 +14,7 @@ body{
     padding: 100px;
 }
 
-#star1{
+#hero1{
     height: 30vw;
     width:30vw;
     border-radius: 50%;
@@ -22,7 +22,7 @@ body{
     background-color:#ff4500;
 }
 
-#star2{
+#hero2{
     height: 30vw;
     width:30vw;
     border-radius: 50%;
